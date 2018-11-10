@@ -1,5 +1,4 @@
-Name: Tashreque Mohammed Haq
-ID: 1411834042
+This is a binary decision tree based on numerical attributes and examples. The Java program uses examples, attributes, gets threshold, calculates entropy and gathers information gain per node to make a decision. This was trained and tested on some satellite, yeast and pendigits data. OOP concepts were used at all times.
 
 Programming language used: Java
 
