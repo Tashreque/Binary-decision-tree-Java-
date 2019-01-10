@@ -1,4 +1,4 @@
-This is a binary decision tree based on numerical attributes and examples. The Java program uses examples, attributes, gets threshold, calculates entropy and gathers information gain per node to make a decision. This was trained and tested on some satellite, yeast and pendigits data. OOP concepts were used at all times.
+This is a binary decision tree based on numerical attributes and examples. The Java program uses examples, attributes, gets threshold, calculates entropy and gathers information gain per node to make a decision. This was trained and tested on some satellite, yeast and pendigits data. OOP concepts were used at all times. The satellite, yeast and pendigits data were in the form of txt files.
 
 Programming language used: Java
 
